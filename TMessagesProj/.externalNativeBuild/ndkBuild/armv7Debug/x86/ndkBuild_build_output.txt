@@ -1,0 +1,5 @@
+md "C:\Igram-Messenger\TMessagesProj\build\intermediates\ndkBuild\armv7\debug\lib\x86" >NUL 2>NUL || rem
+E:/Downloads/ndk/build//../prebuilt/windows-x86_64/bin/echo.exe [x86] "Install        ": "libtmessages.24.so => C:\Igram-Messenger\TMessagesProj\build\intermediates\ndkBuild\armv7\debug\lib/x86/libtmessages.24.so"
+copy /b/y "C:\Igram-Messenger\TMessagesProj\build\intermediates\ndkBuild\armv7\debug\obj\local\x86\libtmessages.24.so" "C:\Igram-Messenger\TMessagesProj\build\intermediates\ndkBuild\armv7\debug\lib\x86\libtmessages.24.so" > NUL
+E:/Downloads/ndk/build//../toolchains/x86-4.9/prebuilt/windows-x86_64/bin/i686-linux-android-strip --strip-unneeded  C:\Igram-Messenger\TMessagesProj\build\intermediates\ndkBuild\armv7\debug\lib/x86/libtmessages.24.so
+process_begin: CreateProcess(NULL, "", ...) failed.

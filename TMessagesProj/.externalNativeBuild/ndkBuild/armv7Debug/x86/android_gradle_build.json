@@ -1,0 +1,11 @@
+{
+  "buildFiles": [
+    "C:\\Igram-Messenger\\TMessagesProj\\jni\\Android.mk",
+    "C:\\Igram-Messenger\\TMessagesProj\\jni\\Application.mk"
+  ],
+  "cleanCommands": [],
+  "libraries": {},
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

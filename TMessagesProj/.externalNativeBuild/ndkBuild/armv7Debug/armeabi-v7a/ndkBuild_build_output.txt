@@ -1,0 +1,5 @@
+md "D:\OS-ACodes\telegram-source\Tak\Apk\Apk\TMessagesProj\build\intermediates\ndkBuild\armv7\debug\lib\armeabi-v7a" >NUL 2>NUL || rem
+C:/android-ndk-r13b/build//../prebuilt/windows-x86_64/bin/echo.exe [armeabi-v7a] "Install        ": "libtmessages.24.so => D:\OS-ACodes\telegram-source\Tak\Apk\Apk\TMessagesProj\build\intermediates\ndkBuild\armv7\debug\lib/armeabi-v7a/libtmessages.24.so"
+copy /b/y "D:\OS-ACodes\telegram-source\Tak\Apk\Apk\TMessagesProj\build\intermediates\ndkBuild\armv7\debug\obj\local\armeabi-v7a\libtmessages.24.so" "D:\OS-ACodes\telegram-source\Tak\Apk\Apk\TMessagesProj\build\intermediates\ndkBuild\armv7\debug\lib\armeabi-v7a\libtmessages.24.so" > NUL
+C:/android-ndk-r13b/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/arm-linux-androideabi-strip --strip-unneeded  D:\OS-ACodes\telegram-source\Tak\Apk\Apk\TMessagesProj\build\intermediates\ndkBuild\armv7\debug\lib/armeabi-v7a/libtmessages.24.so
+process_begin: CreateProcess(NULL, "", ...) failed.

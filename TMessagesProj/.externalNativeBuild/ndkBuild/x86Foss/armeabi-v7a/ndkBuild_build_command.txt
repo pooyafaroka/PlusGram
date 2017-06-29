@@ -1,0 +1,18 @@
+Executable : E:\Downloads\ndk\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=C:\Igram-Messenger\TMessagesProj\jni\Android.mk
+NDK_APPLICATION_MK=C:\Igram-Messenger\TMessagesProj\jni\Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDEBUG=0
+APP_PLATFORM=android-14
+NDK_OUT=C:/Igram-Messenger/TMessagesProj/build/intermediates/ndkBuild/x86/foss/obj
+NDK_LIBS_OUT=C:\Igram-Messenger\TMessagesProj\build\intermediates\ndkBuild\x86\foss\lib
+NDK_APPLICATION_MK:=jni/Application.mk
+APP_PLATFORM:=android-14
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-n
+jvmArgs : 
+

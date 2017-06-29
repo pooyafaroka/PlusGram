@@ -1,15 +1,11 @@
-*.class
+.idea/
+.gradle/
+build/
+obj/
+*.iml
+local.properties
+*.keystore
+gradle.properties
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+TMessagesProj/src/main/java/org/telegram/messenger/BuildVars.java
+/TMessagesProj/google-services.json

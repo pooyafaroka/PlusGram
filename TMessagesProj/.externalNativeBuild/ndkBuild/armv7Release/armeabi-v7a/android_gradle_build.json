@@ -1,0 +1,11 @@
+{
+  "buildFiles": [
+    "D:\\OS-ACodes\\telegram-source\\Tak\\Apk\\Apk\\TMessagesProj\\jni\\Android.mk",
+    "D:\\OS-ACodes\\telegram-source\\Tak\\Apk\\Apk\\TMessagesProj\\jni\\Application.mk"
+  ],
+  "cleanCommands": [],
+  "libraries": {},
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}
